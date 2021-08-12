@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "turcohack",
+    "name": "TurcoHack.cc",
+    "description": "When apre and cum sus.",
+    "version": "b1",
+    "mcversion": "1.12.2",
+    "logoFile": "turco.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Aprenax",
+      "CumHaxSexEdition"
+        ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
